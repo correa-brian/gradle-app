@@ -1,0 +1,14 @@
+# Operating System Files
+
+*.DS_Store
+
+# Build Artifacts
+
+.gradle/
+build/
+
+# Eclipse Project Files
+
+.classPath
+.project
+.settings/
